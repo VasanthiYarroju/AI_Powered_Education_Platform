@@ -80,11 +80,6 @@ Millions of individuals lack access to formal education due to geographical, eco
 
 ---
 
-## 🔗 Links
-
-- 📽️ Video Pitch: [Insert video link here]
-- 🔄 One-page summary report: [One_Page_Summary_Report.pdf](./One_Page_Summary_Report.pdf)
-
 ---
 
 ## 📃 License
