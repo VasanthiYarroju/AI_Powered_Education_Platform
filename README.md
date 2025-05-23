@@ -53,14 +53,7 @@ Millions of individuals lack access to formal education due to geographical, eco
 
 ---
 
-## 📌 Current Progress
 
-- ✅ Core architecture finalized
-- ✅ User authentication module initiated
-- 🔄 Course upload and session scheduling in development
-- 🔜 AI-based recommendation module and analytics dashboard
-
----
 
 ## 🧠 Challenges Faced
 
